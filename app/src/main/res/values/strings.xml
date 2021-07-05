@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">CounterApp</string>
-    <string name="inc_text">+</string>
-    <string name="dec_text">-</string>
-    <string name="ini_text">0</string>
-</resources>
