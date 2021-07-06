@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">HelloToast</string>
-    <string name="ini_val">0</string>
-    <string name="Toast_msg">Hello Toast!!</string>
-    <string name="Button_Count">Count</string>
-    <string name="Button_Toast">Toast</string>
-
-</resources>
