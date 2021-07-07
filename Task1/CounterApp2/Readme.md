@@ -3,7 +3,8 @@
 - we can increase the number with increment button
 - number can be decrease with the decrement button
 - completly responsive suitable for all screen size
-- download [APK](https://drive.google.com/file/d/1U-UWFeacg7xGEXsqYpPO5_iT8ZGVi3bR/view?usp=sharing) here
+## download [APK](https://github.com/namita514/the_Streamliners/files/6776989/CounterApp.zip) here
+
 ---
 ## PREVIEW
 1.portrait view
