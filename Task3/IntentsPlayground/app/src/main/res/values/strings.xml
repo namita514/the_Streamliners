@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IntentsPlayground</string>
+    <string name="open_main_activity">open main activity</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="Data">Data</string>
+    <string name="OpenWebpage">OpenWebpage</string>
+    <string name="DialNumber">DialNumber</string>
+    <string name="ShareText">ShareText</string>
+    <string name="Go">GO</string>
+    <string name="send_and_recieve_data">Send And Recieve Data</string>
+    <string name="send">send</string>
+    <string name="inc_text">+</string>
+    <string name="dec_text">-</string>
+    <string name="ini_text">0</string>
+    <string name="initial_count">initial count</string>
+    <string name="send_back">Send Back</string>
+</resources>
