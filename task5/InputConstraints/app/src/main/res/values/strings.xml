@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InputConstraints</string>
+    <string name="take_input">TAKE INPUT</string>
+    <string name="option1">Uppercase alphabets (A-Z)</string>
+    <string name="option2">Uppercase alphabets (a-z)</string>
+    <string name="option3">Digits (0-9)</string>
+    <string name="option4">Mathematical operations (+, -, /, *, %)</string>
+    <string name="option5">Other symbols (#, $, etc.)</string>
+    <string name="input_constraints">Input Constraints</string>
+    <string name="input_text">Enter your input</string>
+</resources>
