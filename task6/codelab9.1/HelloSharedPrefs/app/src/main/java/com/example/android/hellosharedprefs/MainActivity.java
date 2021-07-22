@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
         mColor = ContextCompat.getColor(this,
                 R.color.default_background);
         // initialising shared preferences
-        mPreferences = Settings.getSharedPreferences(sharedPrefFile, MODE_PRIVATE);
+        mPreferences = getSharedPreferences(sharedPrefFile, MODE_PRIVATE);
 
         // restore shared preferences
         mCount = mPreferences.getInt(COUNT_KEY, 0);
@@ -132,8 +132,4 @@ public class MainActivity extends AppCompatActivity {
         preferencesEditor.apply();
     }
 
-    public void settings(View view) {
-        Intent intent=new Intent(this,Settings.class);
-        startActivity(intent);
-    }
 }
